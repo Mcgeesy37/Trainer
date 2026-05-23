@@ -1,0 +1,122 @@
+{
+  "trainer": {
+    "name": "Marco Bauer",
+    "brand": "BAUER COMBAT BERLIN",
+    "title": "Berlins #1 Kampfsport-Privattrainer",
+    "tagline": "Kein Durchschnitts-Gym. Kein Gruppen-Chaos. Nur du und das Training, das echte Ergebnisse liefert.",
+    "experience_years": 15,
+    "students_trained": 600,
+    "disciplines_count": 6,
+    "championships": 12,
+    "email": "info@bauer-combat.de",
+    "phone": "+49 30 000 00000",
+    "whatsapp": "+493000000000",
+    "instagram": "@bauercombat",
+    "location": "Berlin Mitte & Prenzlauer Berg"
+  },
+  "images": {
+    "hero_bg": "images/hero-bg.jpg",
+    "trainer_portrait": "images/trainer.jpg",
+    "gallery": [
+      "images/gallery-1.jpg",
+      "images/gallery-2.jpg",
+      "images/gallery-3.jpg",
+      "images/gallery-4.jpg",
+      "images/gallery-5.jpg",
+      "images/gallery-6.jpg"
+    ]
+  },
+  "videos": {
+    "featured": {
+      "video_file": "images/video-1.mp4",
+      "title": "Training Einblick — Muay Thai Session",
+      "thumbnail": "images/video-thumb-1.jpg"
+    },
+    "grid": [
+      { "video_file": "images/video-2.mp4", "title": "MMA Grundlagen", "thumbnail": "images/video-thumb-2.jpg" },
+      { "video_file": "images/video-3.mp4", "title": "Boxen für Anfänger", "thumbnail": "images/video-thumb-3.jpg" },
+      { "video_file": "images/video-4.mp4", "title": "Conditioning & Kraft", "thumbnail": "images/video-thumb-4.jpg" }
+    ]
+  },
+  "disciplines": [
+    { "name": "Boxen", "desc": "Von Grundtechniken bis zu fortgeschrittenen Kombinationen. Footwork, Defense, Power — auf höchstem Niveau." },
+    { "name": "Kickboxen", "desc": "Fausttechniken kombiniert mit dynamischen Kicks. Kampferprobt und effektiv für den Wettkampf und die Straße." },
+    { "name": "Muay Thai", "desc": "Die Kunst der 8 Gliedmaßen. Clinch, Ellbogen, Knie — das kompletteste Stand-up-Kampfsystem der Welt." },
+    { "name": "MMA", "desc": "Mixed Martial Arts: Stand-up, Takedowns, Ground & Pound. Für den kompletten modernen Kämpfer." },
+    { "name": "BJJ", "desc": "Brazilian Jiu-Jitsu — Bodenkampf, Submissions, Hebel. Hier schlägt Technik immer Kraft." },
+    { "name": "Wrestling", "desc": "Takedowns, Sprawls, Kontrolle auf dem Boden. Das unverzichtbare Fundament jedes kompletten Kämpfers." }
+  ],
+  "pricing": [
+    {
+      "name": "Basis",
+      "target": "Einsteiger & Anfänger",
+      "price": 89,
+      "duration": 60,
+      "features": ["60 Min. Einzeltraining", "Technik & Grundlagen", "Individueller Trainingsplan", "WhatsApp Support"],
+      "featured": false
+    },
+    {
+      "name": "Performance",
+      "target": "Fortgeschrittene",
+      "price": 119,
+      "duration": 75,
+      "features": ["75 Min. Einzeltraining", "Wettkampf-Vorbereitung", "Video-Analyse deiner Technik", "Ernährungsberatung", "Priority-Buchung"],
+      "featured": true
+    },
+    {
+      "name": "Elite",
+      "target": "Profis & Wettkämpfer",
+      "price": 159,
+      "duration": 90,
+      "features": ["90 Min. Einzeltraining", "Komplettes Coaching-Paket", "Sparring-Partner inkl.", "Mental Training", "24/7 Erreichbarkeit", "Monatliches Performance-Review"],
+      "featured": false
+    }
+  ],
+  "pricing_extras": [
+    { "name": "Gruppe (2–4 Pers.)", "price": "ab €65", "unit": "pro Person / Einheit" },
+    { "name": "10er Block", "price": "€799", "unit": "Einzelstunden · 3 Mon. gültig" },
+    { "name": "Monats-Abo", "price": "€369", "unit": "4× wöchentlich · beste Option" }
+  ],
+  "testimonials": [
+    {
+      "name": "Tim K.",
+      "age": 28,
+      "discipline": "MMA",
+      "text": "Nach 6 Monaten bei Marco bin ich ein komplett anderer Kämpfer. Die Detailgenauigkeit im Training ist auf einem Niveau, das ich vorher nicht kannte.",
+      "rating": 5
+    },
+    {
+      "name": "Sarah B.",
+      "age": 32,
+      "discipline": "Kickboxen",
+      "text": "Als Frau war ich anfangs skeptisch. Marco hat mich von Tag 1 ernst genommen. Heute trainiere ich zweimal pro Woche und bin absolut begeistert.",
+      "rating": 5
+    },
+    {
+      "name": "Lukas P.",
+      "age": 24,
+      "discipline": "Muay Thai",
+      "text": "Wettkampfvorbereitung auf absolutem Top-Niveau. Zwei Siege in Folge — das direkte Ergebnis von Marcos Methodik. Klare Empfehlung.",
+      "rating": 5
+    }
+  ],
+  "faq": [
+    { "q": "Brauche ich Vorkenntnisse?", "a": "Absolut nicht. Ich trainiere Einsteiger ab Tag 1 genauso professionell wie fortgeschrittene Kämpfer. Jeder Profi hat mal bei Null angefangen." },
+    { "q": "Wo findet das Training statt?", "a": "Training findet in meiner Privatanlage in Berlin Mitte statt. Auf Wunsch komme ich auch zu dir nach Hause oder in dein Gym." },
+    { "q": "Wie buche ich eine Einheit?", "a": "Schreib mir einfach per WhatsApp oder E-Mail. Ich antworte innerhalb von 24 Stunden und wir vereinbaren einen kostenlosen Ersttermin." },
+    { "q": "Gibt es eine Probestunde?", "a": "Ja. Die erste Einheit (30 Min.) ist kostenlos und unverbindlich. Kein Vertrag, kein Stress — einfach ausprobieren und selbst erleben." },
+    { "q": "Trainierst du auch Frauen und Jugendliche?", "a": "Ja, definitiv. Ich habe langjährige Erfahrung mit allen Altersgruppen und Fitnessniveaus. Kampfsport ist für jeden geeignet." },
+    { "q": "Wie oft sollte ich pro Woche trainieren?", "a": "Für spürbare Fortschritte empfehle ich 2–3 Einheiten pro Woche. Im Abo ist 4× wöchentlich möglich und liefert die besten Ergebnisse." }
+  ],
+  "legal": {
+    "name": "Marco Bauer",
+    "address": "Musterstraße 1",
+    "city": "10115 Berlin",
+    "country": "Deutschland",
+    "email": "info@bauer-combat.de",
+    "phone": "+49 30 000 00000",
+    "ust_id": "DE000000000",
+    "domain": "bauer-combat.de",
+    "datenschutz_verantwortlicher": "Marco Bauer, Musterstraße 1, 10115 Berlin"
+  }
+}
